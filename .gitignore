@@ -138,3 +138,5 @@ poetry.toml
 /.windsurf/
 # emscripten
 a.out.*
+config.bat
+node_modules
